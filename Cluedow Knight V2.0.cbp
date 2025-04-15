@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Cluedow Knight V2.0" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Cluedow Knight V2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Cluedow Knight V2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Linker>
+			<Add library="alleg44.dll" />
+		</Linker>
+		<Unit filename="Jeu.h" />
+		<Unit filename="afficher_partie.cpp" />
+		<Unit filename="anim.h" />
+		<Unit filename="card_button_ex.cpp" />
+		<Unit filename="carte.cpp" />
+		<Unit filename="carte.h" />
+		<Unit filename="clr.h" />
+		<Unit filename="enveloppe.cpp" />
+		<Unit filename="enveloppe.h" />
+		<Unit filename="fnt.h" />
+		<Unit filename="header.h" />
+		<Unit filename="img.h" />
+		<Unit filename="init.cpp" />
+		<Unit filename="initialiser_cartes.cpp" />
+		<Unit filename="initialiser_partie.cpp" />
+		<Unit filename="joueur.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu_principal.cpp" />
+		<Unit filename="modifier_nom.cpp" />
+		<Unit filename="msc.h" />
+		<Unit filename="param_compte.cpp" />
+		<Unit filename="param_musique.cpp" />
+		<Unit filename="plateau.cpp" />
+		<Unit filename="plateau.h" />
+		<Unit filename="regles.cpp" />
+		<Unit filename="ressources.h" />
+		<Unit filename="sauvegarde.cpp" />
+		<Unit filename="text_button_ex.cpp" />
+		<Unit filename="tour.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

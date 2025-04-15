@@ -1,0 +1,47 @@
+2
+3
+Player
+quirrel
+0
+1
+12
+8
+1
+6
+Falaises Hurlantes
+La Ruche
+Aiguillon
+Quirrel
+Lance
+Knight
+Player2
+knight
+0
+1
+8
+18
+1
+6
+Cloth
+Bassin Ancestral
+Mont Cristal
+Tiso
+Frontieres du Royaume
+Vertchemin
+Player3
+zote
+0
+1
+13
+9
+1
+6
+Faux
+Massue
+Hornet
+Dirtmouth
+Griffe
+Nid-profond
+Aiguille
+Zote
+Jardins de la Reine

@@ -1,0 +1,4357 @@
+# depslib dependency file v1.0
+1635854015 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\main.cpp
+	"header.h"
+	"ressources.h"
+
+1635867877 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+
+1635633444 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1635518789 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\allegro.cpp
+	"header.h"
+	"allegro.h"
+
+1635518836 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\allegro.h
+	"header.h"
+
+1635588998 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\plateau.h
+	"header.h"
+
+1635589097 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635613918 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\ressources.h
+	"img.h"
+	"msc.h"
+
+1635597286 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635633513 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\img.h
+	"header.h"
+
+1635601286 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\msc.h
+	"header.h"
+
+1635597306 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\init.cpp
+	"header.h"
+	"ressources.h"
+
+1635849948 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1635865606 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+
+1635866699 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\carte.cpp
+	"header.h"
+	"carte.h"
+
+1635866697 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\carte.h
+	"header.h"
+
+1635850235 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635850310 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\enveloppe.h
+
+1635868024 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\joueur.h
+	"header.h"
+	"carte.h"
+
+1635867294 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1635865554 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\param_compte.cpp
+	"header.h"
+
+1635867289 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\initialiser_partie.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1635867857 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0\initialiser_cartes.cpp
+	"header.h"
+
+1635633444 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1635869495 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+
+1635613918 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\ressources.h
+	"img.h"
+	"msc.h"
+
+1635633513 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\img.h
+	"header.h"
+
+1635601286 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\msc.h
+	"header.h"
+
+1635869495 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\carte.h
+	"header.h"
+
+1635869495 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\joueur.h
+	"header.h"
+	"carte.h"
+
+1635850310 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\enveloppe.h
+
+1635588998 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\plateau.h
+	"header.h"
+
+1635866699 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\carte.cpp
+	"header.h"
+	"carte.h"
+
+1635850235 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635597306 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\init.cpp
+	"header.h"
+	"ressources.h"
+
+1635867857 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\initialiser_cartes.cpp
+	"header.h"
+
+1635869558 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\initialiser_partie.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1635868664 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1635865554 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\param_compte.cpp
+	"header.h"
+
+1635589097 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635597286 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635868664 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1635868560 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\main.cpp
+	"header.h"
+	"ressources.h"
+
+1635869080 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.0.3\cluedow knight v2.0\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1635871753 c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+
+1635871753 c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\ressources.h
+	"img.h"
+	"msc.h"
+
+1635871753 c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\img.h
+	"header.h"
+
+1635871753 c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\msc.h
+	"header.h"
+
+1635874990 c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\carte.h
+	"header.h"
+
+1635871753 c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\joueur.h
+	"header.h"
+	"carte.h"
+
+1635871753 c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\enveloppe.h
+
+1635871753 c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\plateau.h
+	"header.h"
+
+1635874980 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\carte.cpp
+	"header.h"
+	"carte.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\init.cpp
+	"header.h"
+	"ressources.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\initialiser_cartes.cpp
+	"header.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\initialiser_partie.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\main.cpp
+	"header.h"
+	"ressources.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\param_compte.cpp
+	"header.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635871753 source:c:\users\valen\downloads\cluedow_knight_v2.0.4\cluedow_knight_v2.0.4\cluedow knight v2.0\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1635871753 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1635882130 c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+
+1635871753 c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\ressources.h
+	"img.h"
+	"msc.h"
+
+1635871753 c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\img.h
+	"header.h"
+
+1635871753 c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\msc.h
+	"header.h"
+
+1635874990 c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\carte.h
+	"header.h"
+
+1635871753 c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\joueur.h
+	"header.h"
+	"carte.h"
+
+1635871753 c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\enveloppe.h
+
+1635871753 c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\plateau.h
+	"header.h"
+
+1635874980 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\carte.cpp
+	"header.h"
+	"carte.h"
+
+1635871753 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635871753 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\init.cpp
+	"header.h"
+	"ressources.h"
+
+1635871753 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\initialiser_cartes.cpp
+	"header.h"
+
+1635882107 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\initialiser_partie.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1635871753 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\main.cpp
+	"header.h"
+	"ressources.h"
+
+1635883134 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+
+1635871753 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\param_compte.cpp
+	"header.h"
+
+1635883175 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635871753 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635871753 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1635875181 source:c:\users\valen\onedrive\bureau\cluedow knight v2.0.5\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1635871754 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1635882132 c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+
+1635871754 c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\ressources.h
+	"img.h"
+	"msc.h"
+
+1635871754 c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\img.h
+	"header.h"
+
+1635871754 c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\msc.h
+	"header.h"
+
+1635874992 c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\carte.h
+	"header.h"
+
+1635871754 c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\joueur.h
+	"header.h"
+	"carte.h"
+
+1635871754 c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\enveloppe.h
+
+1635871754 c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\plateau.h
+	"header.h"
+
+1635874982 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\carte.cpp
+	"header.h"
+	"carte.h"
+
+1635871754 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635871754 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\init.cpp
+	"header.h"
+	"ressources.h"
+
+1635875182 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1635871754 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\main.cpp
+	"header.h"
+	"ressources.h"
+
+1635930197 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+
+1635871754 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\param_compte.cpp
+	"header.h"
+
+1635883176 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635871754 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635871754 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1635929835 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\initialiser_partie.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1635932335 source:c:\users\valen\onedrive\bureau\cluedow test\cluedow knight v2.0.5\initialiser_cartes.cpp
+	"header.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1635938213 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\ressources.h
+	"img.h"
+	"msc.h"
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\img.h
+	"header.h"
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\msc.h
+	"header.h"
+
+1635874992 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\carte.h
+	"header.h"
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\joueur.h
+	"header.h"
+	"carte.h"
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\enveloppe.h
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\plateau.h
+	"header.h"
+
+1635874982 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\carte.cpp
+	"header.h"
+	"carte.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\init.cpp
+	"header.h"
+	"ressources.h"
+
+1635939545 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\initialiser_partie.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1635875182 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\main.cpp
+	"header.h"
+	"ressources.h"
+
+1635930198 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\param_compte.cpp
+	"header.h"
+
+1635883176 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1635936166 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\initialiser_cartes.cpp
+	"header.h"
+
+1635938237 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.5\modifier_nom.cpp
+	"header.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1635938213 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\ressources.h
+	"img.h"
+	"msc.h"
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\img.h
+	"header.h"
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\msc.h
+	"header.h"
+
+1635874992 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\carte.h
+	"header.h"
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\joueur.h
+	"header.h"
+	"carte.h"
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\enveloppe.h
+
+1635871754 c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\plateau.h
+	"header.h"
+
+1635874982 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\carte.cpp
+	"header.h"
+	"carte.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\init.cpp
+	"header.h"
+	"ressources.h"
+
+1635936166 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\initialiser_cartes.cpp
+	"header.h"
+
+1635939751 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\initialiser_partie.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1635875182 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\main.cpp
+	"header.h"
+	"ressources.h"
+
+1635930198 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+
+1635938237 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\modifier_nom.cpp
+	"header.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\param_compte.cpp
+	"header.h"
+
+1635883176 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow test\cluedow knight v2.0.6\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1635871754 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1635938213 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+
+1635871754 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\ressources.h
+	"img.h"
+	"msc.h"
+
+1635871754 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\img.h
+	"header.h"
+
+1635871754 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\msc.h
+	"header.h"
+
+1635874992 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\carte.h
+	"header.h"
+
+1635871754 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\joueur.h
+	"header.h"
+	"carte.h"
+
+1635871754 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\enveloppe.h
+
+1635871754 c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\plateau.h
+	"header.h"
+
+1635874982 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\carte.cpp
+	"header.h"
+	"carte.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\init.cpp
+	"header.h"
+	"ressources.h"
+
+1635936166 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\initialiser_cartes.cpp
+	"header.h"
+
+1635939751 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\initialiser_partie.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1635875182 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\main.cpp
+	"header.h"
+	"ressources.h"
+
+1635930198 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+
+1635938237 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\modifier_nom.cpp
+	"header.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\param_compte.cpp
+	"header.h"
+
+1635883176 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635871754 source:c:\users\lox\desktop\cluedow knight\cluedow knight v2.0.6\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1635871754 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1635950379 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+
+1635871754 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\ressources.h
+	"img.h"
+	"msc.h"
+
+1635871754 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\img.h
+	"header.h"
+
+1635871754 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\msc.h
+	"header.h"
+
+1635874992 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\carte.h
+	"header.h"
+
+1635871754 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\joueur.h
+	"header.h"
+	"carte.h"
+
+1635871754 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\enveloppe.h
+
+1635871754 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\plateau.h
+	"header.h"
+
+1635874982 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\carte.cpp
+	"header.h"
+	"carte.h"
+
+1635871754 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635871754 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\init.cpp
+	"header.h"
+	"ressources.h"
+
+1635948682 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\initialiser_cartes.cpp
+	"header.h"
+
+1635950379 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\initialiser_partie.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1635875182 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1635871754 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\main.cpp
+	"header.h"
+	"ressources.h"
+
+1635949552 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+
+1635938237 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\modifier_nom.cpp
+	"header.h"
+
+1635871754 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\param_compte.cpp
+	"header.h"
+
+1635950378 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635871754 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635871754 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow knight v2.0.6\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636299864 c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+
+1635966073 c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\ressources.h
+	"img.h"
+	"msc.h"
+
+1635966073 c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\img.h
+	"header.h"
+
+1635966073 c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\msc.h
+	"header.h"
+
+1635966073 c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\carte.h
+	"header.h"
+
+1636027877 c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\joueur.h
+	"header.h"
+	"carte.h"
+
+1635966073 c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\enveloppe.h
+
+1635966073 c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\plateau.h
+	"header.h"
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\carte.cpp
+	"header.h"
+	"carte.h"
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\init.cpp
+	"header.h"
+	"ressources.h"
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\initialiser_cartes.cpp
+	"header.h"
+
+1636300674 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\initialiser_partie.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1636027322 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\main.cpp
+	"header.h"
+	"ressources.h"
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\modifier_nom.cpp
+	"header.h"
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\param_compte.cpp
+	"header.h"
+
+1636300907 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635966073 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1636300231 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.0.8\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636541060 c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1635966074 c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\ressources.h
+	"img.h"
+	"msc.h"
+
+1635966074 c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\img.h
+	"header.h"
+
+1635966074 c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\msc.h
+	"header.h"
+
+1636360763 c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\carte.h
+	"header.h"
+
+1636539124 c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\joueur.h
+	"header.h"
+	"carte.h"
+
+1636363546 c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\enveloppe.h
+	"carte.h"
+
+1635966074 c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\plateau.h
+	"header.h"
+
+1636361270 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\carte.cpp
+	"header.h"
+	"carte.h"
+
+1636363564 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\init.cpp
+	"header.h"
+	"ressources.h"
+
+1636544207 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1636538236 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1636027324 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1636363541 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\main.cpp
+	"header.h"
+	"ressources.h"
+
+1636362929 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\modifier_nom.cpp
+	"header.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\param_compte.cpp
+	"header.h"
+
+1636300908 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1636300232 source:c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1636539171 c:\users\lox\desktop\cluedow_knight_v2.0.10\cluedow_knight_v2.0.8\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636553402 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1635966074 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\ressources.h
+	"img.h"
+	"msc.h"
+
+1635966074 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\img.h
+	"header.h"
+
+1635966074 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\msc.h
+	"header.h"
+
+1636360763 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\carte.h
+	"header.h"
+
+1636539124 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\joueur.h
+	"header.h"
+	"carte.h"
+
+1636363546 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\enveloppe.h
+	"carte.h"
+
+1635966074 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\plateau.h
+	"header.h"
+
+1636361270 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\carte.cpp
+	"header.h"
+	"carte.h"
+
+1636363564 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\init.cpp
+	"header.h"
+	"ressources.h"
+
+1636554242 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1636550329 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1636027324 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1636552960 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\main.cpp
+	"header.h"
+	"ressources.h"
+
+1636551350 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\modifier_nom.cpp
+	"header.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\param_compte.cpp
+	"header.h"
+
+1636300908 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1636300232 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1636539171 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1636551714 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.1\regles.cpp
+	"header.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636556164 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1635966074 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\ressources.h
+	"img.h"
+	"msc.h"
+
+1635966074 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\img.h
+	"header.h"
+
+1635966074 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\msc.h
+	"header.h"
+
+1636360763 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\carte.h
+	"header.h"
+
+1636539124 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\joueur.h
+	"header.h"
+	"carte.h"
+
+1636363546 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\enveloppe.h
+	"carte.h"
+
+1636539171 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1635966074 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\plateau.h
+	"header.h"
+
+1636361270 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\carte.cpp
+	"header.h"
+	"carte.h"
+
+1636363564 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\init.cpp
+	"header.h"
+	"ressources.h"
+
+1636554896 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1636027324 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\joueur.cpp
+	"header.h"
+	"joueur.h"
+	"carte.h"
+
+1636551350 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\modifier_nom.cpp
+	"header.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\param_compte.cpp
+	"header.h"
+
+1636557133 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\plateau.cpp
+	"header.h"
+	"plateau.h"
+
+1636551714 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\regles.cpp
+	"header.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635966074 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1636555914 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1636555914 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\main.cpp
+	"header.h"
+	"ressources.h"
+
+1636556618 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.1.2\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1636564518 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636564608 c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1636569516 c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\ressources.h
+	"img.h"
+	"msc.h"
+
+1635966074 c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\img.h
+	"header.h"
+
+1635966074 c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\msc.h
+	"header.h"
+
+1636360764 c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\carte.h
+	"header.h"
+
+1636562948 c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\joueur.h
+	"header.h"
+	"carte.h"
+
+1636363548 c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\enveloppe.h
+	"carte.h"
+
+1636564451 c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1635966074 c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\plateau.h
+	"header.h"
+
+1636361272 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\carte.cpp
+	"header.h"
+	"carte.h"
+
+1636363566 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\init.cpp
+	"header.h"
+	"ressources.h"
+
+1636554898 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1636570302 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1636562903 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\joueur.cpp
+
+1636555916 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\main.cpp
+	"header.h"
+	"ressources.h"
+
+1636562344 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\modifier_nom.cpp
+	"header.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\param_compte.cpp
+	"header.h"
+
+1636563882 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636551716 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\regles.cpp
+	"header.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1636570420 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_v2.1.3\cluedow_knight_v2.1.3\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1636564518 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636564608 c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1636569516 c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\ressources.h
+	"img.h"
+	"msc.h"
+
+1635966074 c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\img.h
+	"header.h"
+
+1635966074 c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\msc.h
+	"header.h"
+
+1636360764 c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\carte.h
+	"header.h"
+
+1636562948 c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\joueur.h
+	"header.h"
+	"carte.h"
+
+1636363548 c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\enveloppe.h
+	"carte.h"
+
+1636900302 c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1636916584 c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\plateau.h
+	"header.h"
+	"ressources.h"
+
+1636361272 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\carte.cpp
+	"header.h"
+	"carte.h"
+
+1636363566 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\init.cpp
+	"header.h"
+	"ressources.h"
+
+1636554898 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1636893579 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1636562903 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\joueur.cpp
+
+1636555916 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\main.cpp
+	"header.h"
+	"ressources.h"
+
+1636562344 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\modifier_nom.cpp
+	"header.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\param_compte.cpp
+	"header.h"
+
+1636563882 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636551716 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\regles.cpp
+	"header.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1635966074 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1636900272 source:c:\users\lox\desktop\cluedow knight\cluedow_knight_2.1.4\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1636963506 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636972339 c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1636971272 c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\ressources.h
+	"img.h"
+	"msc.h"
+
+1636962232 c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\img.h
+	"header.h"
+
+1636971272 c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\msc.h
+	"header.h"
+
+1636962232 c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\carte.h
+	"header.h"
+
+1636966421 c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\joueur.h
+	"header.h"
+	"carte.h"
+
+1636962232 c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\enveloppe.h
+	"carte.h"
+
+1636970317 c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1636971409 c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\plateau.h
+	"header.h"
+	"ressources.h"
+
+1636962232 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\carte.cpp
+	"header.h"
+	"carte.h"
+
+1636962232 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1636962232 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\init.cpp
+	"header.h"
+	"ressources.h"
+
+1636962232 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1636971084 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1636962232 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\joueur.cpp
+
+1636962232 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\main.cpp
+	"header.h"
+	"ressources.h"
+
+1636962233 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1636962233 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\modifier_nom.cpp
+	"header.h"
+
+1636962233 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\param_compte.cpp
+	"header.h"
+
+1636972895 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636962233 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\regles.cpp
+	"header.h"
+
+1636973123 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1636962233 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1636974010 source:c:\users\valen\downloads\cluedow_knight_2.1.5\cluedow_knight_2.1.5\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1636963506 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1637747984 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1636971272 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\ressources.h
+	"img.h"
+	"msc.h"
+
+1636962232 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\img.h
+	"header.h"
+
+1636971272 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\msc.h
+	"header.h"
+
+1637743244 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\carte.h
+	"header.h"
+
+1637748163 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\joueur.h
+	"header.h"
+	"carte.h"
+
+1637744233 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\enveloppe.h
+	"carte.h"
+
+1637746022 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1636971409 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\plateau.h
+	"header.h"
+	"ressources.h"
+
+1637745510 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\carte.cpp
+	"header.h"
+	"carte.h"
+
+1637744233 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1636962232 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\init.cpp
+	"header.h"
+	"ressources.h"
+
+1637578983 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1637748010 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1636962232 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\joueur.cpp
+
+1637570379 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\main.cpp
+	"header.h"
+	"ressources.h"
+
+1637748036 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1636962233 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\modifier_nom.cpp
+	"header.h"
+
+1636962233 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\param_compte.cpp
+	"header.h"
+
+1637571928 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636962233 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\regles.cpp
+	"header.h"
+
+1636973123 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1636962233 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1637748150 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1637745708 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.6\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"Jeu.h"
+	<sstream>
+
+1636963508 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1637751839 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\header.h
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1636971274 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\ressources.h
+	"img.h"
+	"msc.h"
+
+1636962234 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\img.h
+	"header.h"
+
+1636971274 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\msc.h
+	"header.h"
+
+1637743246 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\carte.h
+	"header.h"
+
+1637748164 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\joueur.h
+	"header.h"
+	"carte.h"
+
+1637744234 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\enveloppe.h
+	"carte.h"
+
+1637746024 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1636971410 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\plateau.h
+	"header.h"
+	"ressources.h"
+
+1637745512 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\carte.cpp
+	"header.h"
+	"carte.h"
+
+1637744234 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1636962234 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\init.cpp
+	"header.h"
+	"ressources.h"
+
+1637578984 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1637752254 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1636962234 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\joueur.cpp
+
+1637570380 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\main.cpp
+	"header.h"
+	"ressources.h"
+
+1637751781 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1636962234 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\modifier_nom.cpp
+	"header.h"
+
+1636962234 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\param_compte.cpp
+	"header.h"
+
+1637571930 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636962234 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\regles.cpp
+	"header.h"
+
+1636973124 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1637751631 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"Jeu.h"
+	<sstream>
+
+1636962234 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1637751631 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.7\cluedow_knight_2.1.6\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1636963508 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1637854769 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1637848637 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+
+1637854542 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\img.h
+	"header.h"
+
+1637827773 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\msc.h
+	"header.h"
+
+1637743246 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\carte.h
+	"header.h"
+
+1637827845 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\joueur.h
+	"header.h"
+	"carte.h"
+
+1637744234 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\enveloppe.h
+	"carte.h"
+
+1637847057 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1636971410 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\plateau.h
+	"header.h"
+	"ressources.h"
+
+1637745512 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\carte.cpp
+	"header.h"
+	"carte.h"
+
+1637744234 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1636962234 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\init.cpp
+	"header.h"
+	"ressources.h"
+
+1637851053 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1637854542 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1636962234 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\joueur.cpp
+
+1637570380 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\main.cpp
+	"header.h"
+	"ressources.h"
+
+1637849674 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1636962234 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\modifier_nom.cpp
+	"header.h"
+
+1636962234 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\param_compte.cpp
+	"header.h"
+
+1637855205 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1636962234 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\regles.cpp
+	"header.h"
+
+1636973124 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1637751632 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"Jeu.h"
+	<sstream>
+
+1636962234 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1637854791 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1637827283 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\include\clr.h
+	"header.h"
+
+1637829391 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\clr.h
+	"header.h"
+
+1637826939 source:c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\clr.cpp
+	"Clr.h"
+
+1637850419 c:\users\lox\desktop\cluedow_knight_2.1.8\cluedow_knight_2.1.8\fnt.h
+	"header.h"
+
+1637855885 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1637869052 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1637855886 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+
+1637855885 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\img.h
+	"header.h"
+
+1637855885 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\msc.h
+	"header.h"
+
+1637855885 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\clr.h
+	"header.h"
+
+1637855885 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\fnt.h
+	"header.h"
+
+1637855885 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\carte.h
+	"header.h"
+
+1637855885 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\joueur.h
+	"header.h"
+	"carte.h"
+
+1637855885 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\enveloppe.h
+	"carte.h"
+
+1637855885 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1637855885 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\plateau.h
+	"header.h"
+	"ressources.h"
+
+1637855885 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\carte.cpp
+	"header.h"
+	"carte.h"
+
+1637855885 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1637855885 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\init.cpp
+	"header.h"
+	"ressources.h"
+
+1637864720 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1637866624 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1637855885 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\joueur.cpp
+
+1637855885 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\main.cpp
+	"header.h"
+	"ressources.h"
+
+1637865683 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1637855885 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\modifier_nom.cpp
+	"header.h"
+
+1637874964 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\param_compte.cpp
+	"header.h"
+
+1637855885 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1637855885 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\regles.cpp
+	"header.h"
+
+1637855885 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1637856685 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1637855886 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1637868528 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.9\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1637855886 source:c:\users\lox\desktop\cluedow_knight_2.1.9\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1637879715 c:\users\lox\desktop\cluedow_knight_2.1.9\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1637883218 c:\users\lox\desktop\cluedow_knight_2.1.9\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+
+1637881357 c:\users\lox\desktop\cluedow_knight_2.1.9\img.h
+	"header.h"
+
+1637881417 c:\users\lox\desktop\cluedow_knight_2.1.9\msc.h
+	"header.h"
+
+1637880761 c:\users\lox\desktop\cluedow_knight_2.1.9\clr.h
+	"header.h"
+
+1637881351 c:\users\lox\desktop\cluedow_knight_2.1.9\fnt.h
+	"header.h"
+
+1637855886 c:\users\lox\desktop\cluedow_knight_2.1.9\carte.h
+	"header.h"
+
+1637855886 c:\users\lox\desktop\cluedow_knight_2.1.9\joueur.h
+	"header.h"
+	"carte.h"
+
+1637855886 c:\users\lox\desktop\cluedow_knight_2.1.9\enveloppe.h
+	"carte.h"
+
+1637855886 c:\users\lox\desktop\cluedow_knight_2.1.9\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1637881414 c:\users\lox\desktop\cluedow_knight_2.1.9\plateau.h
+	"header.h"
+	"ressources.h"
+
+1637855886 source:c:\users\lox\desktop\cluedow_knight_2.1.9\carte.cpp
+	"header.h"
+	"carte.h"
+
+1637855886 source:c:\users\lox\desktop\cluedow_knight_2.1.9\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1637855886 source:c:\users\lox\desktop\cluedow_knight_2.1.9\init.cpp
+	"header.h"
+	"ressources.h"
+
+1637883090 source:c:\users\lox\desktop\cluedow_knight_2.1.9\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1637941148 source:c:\users\lox\desktop\cluedow_knight_2.1.9\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1637855886 source:c:\users\lox\desktop\cluedow_knight_2.1.9\joueur.cpp
+
+1637855886 source:c:\users\lox\desktop\cluedow_knight_2.1.9\main.cpp
+	"header.h"
+	"ressources.h"
+
+1637855886 source:c:\users\lox\desktop\cluedow_knight_2.1.9\modifier_nom.cpp
+	"header.h"
+
+1637882370 source:c:\users\lox\desktop\cluedow_knight_2.1.9\param_compte.cpp
+	"header.h"
+
+1637855886 source:c:\users\lox\desktop\cluedow_knight_2.1.9\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1637879676 source:c:\users\lox\desktop\cluedow_knight_2.1.9\regles.cpp
+	"header.h"
+
+1637855886 source:c:\users\lox\desktop\cluedow_knight_2.1.9\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1637879658 source:c:\users\lox\desktop\cluedow_knight_2.1.9\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1637855888 source:c:\users\lox\desktop\cluedow_knight_2.1.9\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1637868530 source:c:\users\lox\desktop\cluedow_knight_2.1.9\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1637883014 source:c:\users\lox\desktop\cluedow_knight_2.1.9\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1637943092 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1637941807 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+
+1637941807 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\img.h
+	"header.h"
+
+1637941807 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\msc.h
+	"header.h"
+
+1637941807 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\clr.h
+	"header.h"
+
+1637941807 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\fnt.h
+	"header.h"
+
+1637941807 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\carte.h
+	"header.h"
+
+1637941807 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\joueur.h
+	"header.h"
+	"carte.h"
+
+1637941807 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\enveloppe.h
+	"carte.h"
+
+1637941807 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1637941807 c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\plateau.h
+	"header.h"
+	"ressources.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\carte.cpp
+	"header.h"
+	"carte.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\init.cpp
+	"header.h"
+	"ressources.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\joueur.cpp
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\main.cpp
+	"header.h"
+	"ressources.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\modifier_nom.cpp
+	"header.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\param_compte.cpp
+	"header.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\regles.cpp
+	"header.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1637941807 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1637942144 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1637942348 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.1.11\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638026926 c:\users\lox\desktop\cluedow_knight_2.1.10\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638024517 c:\users\lox\desktop\cluedow_knight_2.1.10\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+
+1638011953 c:\users\lox\desktop\cluedow_knight_2.1.10\img.h
+	"header.h"
+
+1637941808 c:\users\lox\desktop\cluedow_knight_2.1.10\msc.h
+	"header.h"
+
+1637941808 c:\users\lox\desktop\cluedow_knight_2.1.10\clr.h
+	"header.h"
+
+1637941808 c:\users\lox\desktop\cluedow_knight_2.1.10\fnt.h
+	"header.h"
+
+1637941808 c:\users\lox\desktop\cluedow_knight_2.1.10\carte.h
+	"header.h"
+
+1638023990 c:\users\lox\desktop\cluedow_knight_2.1.10\joueur.h
+	"header.h"
+	"carte.h"
+
+1637941808 c:\users\lox\desktop\cluedow_knight_2.1.10\enveloppe.h
+	"carte.h"
+
+1638026829 c:\users\lox\desktop\cluedow_knight_2.1.10\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1637941808 c:\users\lox\desktop\cluedow_knight_2.1.10\plateau.h
+	"header.h"
+	"ressources.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\carte.cpp
+	"header.h"
+	"carte.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\init.cpp
+	"header.h"
+	"ressources.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638026937 source:c:\users\lox\desktop\cluedow_knight_2.1.10\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\joueur.cpp
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638022346 source:c:\users\lox\desktop\cluedow_knight_2.1.10\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\modifier_nom.cpp
+	"header.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\param_compte.cpp
+	"header.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\regles.cpp
+	"header.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1637941808 source:c:\users\lox\desktop\cluedow_knight_2.1.10\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638027363 source:c:\users\lox\desktop\cluedow_knight_2.1.10\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1638026415 source:c:\users\lox\desktop\cluedow_knight_2.1.10\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638029825 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638028000 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+
+1638028000 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\img.h
+	"header.h"
+
+1638028000 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\msc.h
+	"header.h"
+
+1638028000 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\clr.h
+	"header.h"
+
+1638028000 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\fnt.h
+	"header.h"
+
+1638028000 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\carte.h
+	"header.h"
+
+1638036325 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\joueur.h
+	"header.h"
+	"carte.h"
+
+1638028000 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\enveloppe.h
+	"carte.h"
+
+1638028000 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638028000 c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638035671 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638035788 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\joueur.cpp
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638036987 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\modifier_nom.cpp
+	"header.h"
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\param_compte.cpp
+	"header.h"
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\regles.cpp
+	"header.h"
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638036987 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638028000 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638031457 source:c:\users\valen\onedrive\bureau\cluedow_knight_2.2.1\cluedow_knight_2.2.1\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638044396 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638028002 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+
+1638028002 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\img.h
+	"header.h"
+
+1638028002 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\msc.h
+	"header.h"
+
+1638028002 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\clr.h
+	"header.h"
+
+1638028002 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\fnt.h
+	"header.h"
+
+1638028002 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\carte.h
+	"header.h"
+
+1638036326 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\joueur.h
+	"header.h"
+	"carte.h"
+
+1638028002 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\enveloppe.h
+	"carte.h"
+
+1638028002 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638028002 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638045132 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638045162 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\joueur.cpp
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638036988 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\modifier_nom.cpp
+	"header.h"
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\regles.cpp
+	"header.h"
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638036988 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638028002 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638031458 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1638043789 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.2\param_compte.cpp
+	"header.h"
+
+1638028002 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638044398 c:\users\lox\desktop\cluedow_knight_v2.2.2\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638046151 c:\users\lox\desktop\cluedow_knight_v2.2.2\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638046932 c:\users\lox\desktop\cluedow_knight_v2.2.2\img.h
+	"header.h"
+
+1638047302 c:\users\lox\desktop\cluedow_knight_v2.2.2\msc.h
+	"header.h"
+
+1638028002 c:\users\lox\desktop\cluedow_knight_v2.2.2\clr.h
+	"header.h"
+
+1638028002 c:\users\lox\desktop\cluedow_knight_v2.2.2\fnt.h
+	"header.h"
+
+1638028002 c:\users\lox\desktop\cluedow_knight_v2.2.2\carte.h
+	"header.h"
+
+1638054822 c:\users\lox\desktop\cluedow_knight_v2.2.2\joueur.h
+	"header.h"
+	"carte.h"
+
+1638028002 c:\users\lox\desktop\cluedow_knight_v2.2.2\enveloppe.h
+	"carte.h"
+
+1638058332 c:\users\lox\desktop\cluedow_knight_v2.2.2\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638028002 c:\users\lox\desktop\cluedow_knight_v2.2.2\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638028002 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638028002 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638028002 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638056639 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638055083 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638028002 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\joueur.cpp
+
+1638050226 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638053233 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638053953 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\modifier_nom.cpp
+	"header.h"
+
+1638043790 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\param_compte.cpp
+	"header.h"
+
+1638057993 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638028002 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\regles.cpp
+	"header.h"
+
+1638028002 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638036988 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638028002 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638053605 source:c:\users\lox\desktop\cluedow_knight_v2.2.2\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1638049528 c:\users\lox\desktop\cluedow_knight_v2.2.2\anim.h
+	"header.h"
+
+1638059301 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\img.h
+	"header.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\msc.h
+	"header.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\clr.h
+	"header.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\fnt.h
+	"header.h"
+
+1638059301 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\anim.h
+	"header.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\carte.h
+	"header.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\joueur.h
+	"header.h"
+	"carte.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\enveloppe.h
+	"carte.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638060340 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\joueur.cpp
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\modifier_nom.cpp
+	"header.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\param_compte.cpp
+	"header.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\regles.cpp
+	"header.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638060139 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1638059302 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638063014 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638059304 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638059304 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\img.h
+	"header.h"
+
+1638059304 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\msc.h
+	"header.h"
+
+1638059304 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\clr.h
+	"header.h"
+
+1638059304 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\fnt.h
+	"header.h"
+
+1638059302 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\anim.h
+	"header.h"
+
+1638059304 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\carte.h
+	"header.h"
+
+1638061579 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\joueur.h
+	"header.h"
+	"carte.h"
+
+1638059304 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\enveloppe.h
+	"carte.h"
+
+1638061579 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638059304 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638063861 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\joueur.cpp
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\modifier_nom.cpp
+	"header.h"
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\param_compte.cpp
+	"header.h"
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\regles.cpp
+	"header.h"
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638067050 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638059304 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638066618 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1638061579 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638067107 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.5\cluedow_knight_v2.2.3\cluedow_knight_v2.2.3\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638059302 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638063016 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\img.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\msc.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\clr.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\fnt.h
+	"header.h"
+
+1638090408 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\anim.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\carte.h
+	"header.h"
+
+1638061580 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\joueur.h
+	"header.h"
+	"carte.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\enveloppe.h
+	"carte.h"
+
+1638061580 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638090382 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638090323 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\joueur.cpp
+
+1638088239 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638090323 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\modifier_nom.cpp
+	"header.h"
+
+1638087978 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\param_compte.cpp
+	"header.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\regles.cpp
+	"header.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638067052 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638066620 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.3\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1638059302 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\boucle_jeu.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638063016 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\img.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\msc.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\clr.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\fnt.h
+	"header.h"
+
+1638093119 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\anim.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\carte.h
+	"header.h"
+
+1638061580 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\joueur.h
+	"header.h"
+	"carte.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\enveloppe.h
+	"carte.h"
+
+1638061580 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\joueur.cpp
+
+1638088239 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638093326 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\modifier_nom.cpp
+	"header.h"
+
+1638087978 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\param_compte.cpp
+	"header.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\regles.cpp
+	"header.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638067052 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638066620 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1638090935 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638093076 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.6\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638097743 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\img.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\msc.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\clr.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\fnt.h
+	"header.h"
+
+1638093119 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\anim.h
+	"header.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\carte.h
+	"header.h"
+
+1638061580 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\joueur.h
+	"header.h"
+	"carte.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\enveloppe.h
+	"carte.h"
+
+1638061580 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638059304 c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638096295 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638097503 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\joueur.cpp
+
+1638088239 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638093356 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\modifier_nom.cpp
+	"header.h"
+
+1638087978 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\param_compte.cpp
+	"header.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\regles.cpp
+	"header.h"
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638067052 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638059304 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638066620 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1638095017 source:c:\users\killian dechamps\desktop\ing2\informatique\semestre 1\projet\cluedow_knight_v2.2.7\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638109575 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638109575 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638109576 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638109575 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\img.h
+	"header.h"
+
+1638109576 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\msc.h
+	"header.h"
+
+1638109575 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\clr.h
+	"header.h"
+
+1638109575 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\fnt.h
+	"header.h"
+
+1638109575 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\anim.h
+	"header.h"
+
+1638109575 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\carte.h
+	"header.h"
+
+1638109576 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\joueur.h
+	"header.h"
+	"carte.h"
+
+1638109575 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\enveloppe.h
+	"carte.h"
+
+1638109576 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638109576 c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638109575 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638109575 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638113672 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\joueur.cpp
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638113983 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\modifier_nom.cpp
+	"header.h"
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\param_compte.cpp
+	"header.h"
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\regles.cpp
+	"header.h"
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638110782 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638113310 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\tour.cpp
+	"header.h"
+	"joueur.h"
+
+1638109576 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638118192 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638119654 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\img.h
+	"header.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\msc.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\clr.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\fnt.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\anim.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\carte.h
+	"header.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\joueur.h
+	"header.h"
+	"carte.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\enveloppe.h
+	"carte.h"
+
+1638119702 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638109576 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638109576 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638109578 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638113674 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638109578 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\joueur.cpp
+
+1638109578 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638114632 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638109578 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\modifier_nom.cpp
+	"header.h"
+
+1638109578 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\param_compte.cpp
+	"header.h"
+
+1638119180 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638109578 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\regles.cpp
+	"header.h"
+
+1638109578 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638110784 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638109578 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638120005 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\tour.cpp
+	"header.h"
+
+1638118042 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\card_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638118144 source:c:\users\lox\desktop\cluedow_knight_v2.2.8\cluedow_knight_v2.2.7\afficher_partie.cpp
+	"header.h"
+
+1638118144 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\afficher_partie.cpp
+	"header.h"
+
+1638125391 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638109578 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638119654 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\img.h
+	"header.h"
+
+1638109578 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\msc.h
+	"header.h"
+
+1638109576 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\clr.h
+	"header.h"
+
+1638109576 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\fnt.h
+	"header.h"
+
+1638109576 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\anim.h
+	"header.h"
+
+1638109576 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\carte.h
+	"header.h"
+
+1638109578 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\joueur.h
+	"header.h"
+	"carte.h"
+
+1638109576 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\enveloppe.h
+	"carte.h"
+
+1638119702 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638109578 c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638120639 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\card_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638109576 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638109576 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638124169 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638109578 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638113674 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638109578 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\joueur.cpp
+
+1638120792 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638124169 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638121621 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\modifier_nom.cpp
+	"header.h"
+
+1638122299 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\param_compte.cpp
+	"header.h"
+
+1638122525 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638109578 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\ressources.cpp
+	"header.h"
+	"ressources.h"
+
+1638123278 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638123340 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638123497 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\tour.cpp
+	"header.h"
+
+1638123048 source:c:\users\killian dechamps\desktop\codeblocks\cluedow_knight_v2.2.9\regles.cpp
+	"header.h"
+
+1638125392 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\afficher_partie.cpp
+	"header.h"
+
+1638125979 c:\users\lox\desktop\cluedow_knight_v2.3.0\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.3.0\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638119656 c:\users\lox\desktop\cluedow_knight_v2.3.0\img.h
+	"header.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.3.0\msc.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.3.0\clr.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.3.0\fnt.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.3.0\anim.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.3.0\carte.h
+	"header.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.3.0\joueur.h
+	"header.h"
+	"carte.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.3.0\enveloppe.h
+	"carte.h"
+
+1638119704 c:\users\lox\desktop\cluedow_knight_v2.3.0\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.3.0\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638120640 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\card_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638109576 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638109576 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638124170 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638109578 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638113674 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638120794 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638127846 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638121622 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\modifier_nom.cpp
+	"header.h"
+
+1638122300 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\param_compte.cpp
+	"header.h"
+
+1638122526 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638123050 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\regles.cpp
+	"header.h"
+
+1638123280 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638123342 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638127751 source:c:\users\lox\desktop\cluedow_knight_v2.3.0\tour.cpp
+	"header.h"
+
+1638125392 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\afficher_partie.cpp
+	"header.h"
+
+1638125979 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638109578 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638119656 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\img.h
+	"header.h"
+
+1638109578 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\msc.h
+	"header.h"
+
+1638109576 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\clr.h
+	"header.h"
+
+1638109576 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\fnt.h
+	"header.h"
+
+1638109576 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\anim.h
+	"header.h"
+
+1638109576 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\carte.h
+	"header.h"
+
+1638109578 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\joueur.h
+	"header.h"
+	"carte.h"
+
+1638109576 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\enveloppe.h
+	"carte.h"
+
+1638119704 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638109578 c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638120640 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\card_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638109576 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638124170 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638109578 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638113674 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638120794 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638127933 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638121622 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\modifier_nom.cpp
+	"header.h"
+
+1638122300 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\param_compte.cpp
+	"header.h"
+
+1638122526 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638123050 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\regles.cpp
+	"header.h"
+
+1638123280 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638123342 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638128406 source:c:\users\valen\onedrive\bureau\cluedow_knight_v2.3.1\cluedow_knight_v2.3.1\tour.cpp
+	"header.h"
+
+1638125392 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\afficher_partie.cpp
+	"header.h"
+
+1638131719 c:\users\lox\desktop\cluedow_knight_v2.3.3\header.h
+	<cmath>
+	<iostream>
+	<map>
+	<vector>
+	<sstream>
+	<cstring>
+	<fstream>
+	<allegro.h>
+	<time.h>
+	<logg.h>
+	"ressources.h"
+	"carte.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+
+1638132469 c:\users\lox\desktop\cluedow_knight_v2.3.3\ressources.h
+	"img.h"
+	"msc.h"
+	"clr.h"
+	"fnt.h"
+	"anim.h"
+
+1638135532 c:\users\lox\desktop\cluedow_knight_v2.3.3\img.h
+	"header.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.3.3\msc.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.3.3\clr.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.3.3\fnt.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.3.3\anim.h
+	"header.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.3.3\carte.h
+	"header.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.3.3\joueur.h
+	"header.h"
+	"carte.h"
+
+1638109576 c:\users\lox\desktop\cluedow_knight_v2.3.3\enveloppe.h
+	"carte.h"
+
+1638134234 c:\users\lox\desktop\cluedow_knight_v2.3.3\jeu.h
+	"header.h"
+	"joueur.h"
+	"carte.h"
+	"plateau.h"
+	"enveloppe.h"
+
+1638109578 c:\users\lox\desktop\cluedow_knight_v2.3.3\plateau.h
+	"header.h"
+	"ressources.h"
+
+1638120640 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\card_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638109576 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\carte.cpp
+	"header.h"
+	"carte.h"
+
+1638109576 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\enveloppe.cpp
+	"header.h"
+	"enveloppe.h"
+
+1638124170 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\init.cpp
+	"header.h"
+	"ressources.h"
+
+1638109578 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\initialiser_cartes.cpp
+	"header.h"
+	"joueur.h"
+	<sstream>
+
+1638136830 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\initialiser_partie.cpp
+	"header.h"
+	"Jeu.h"
+	"joueur.h"
+	"carte.h"
+	"enveloppe.h"
+
+1638120794 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\main.cpp
+	"header.h"
+	"ressources.h"
+
+1638133452 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\menu_principal.cpp
+	"header.h"
+	"ressources.h"
+	"Jeu.h"
+
+1638121622 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\modifier_nom.cpp
+	"header.h"
+
+1638122300 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\param_compte.cpp
+	"header.h"
+
+1638122526 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\plateau.cpp
+	"header.h"
+	"plateau.h"
+	"ressources.h"
+
+1638133344 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\regles.cpp
+	"header.h"
+
+1638123280 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\sauvegarde.cpp
+	"header.h"
+	"ressources.h"
+	"joueur.h"
+	"enveloppe.h"
+	"Jeu.h"
+	<sstream>
+
+1638133675 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\text_button_ex.cpp
+	"header.h"
+	<vector>
+
+1638137341 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\tour.cpp
+	"header.h"
+
+1638132305 source:c:\users\lox\desktop\cluedow_knight_v2.3.3\param_musique.cpp
+	"header.h"
+
